@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Plumo-2D.PrjPCB]
+   Generated File[Bill of Materials-Plumo-2D.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 6:34:51 PM On 12/16/19

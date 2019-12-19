@@ -1,0 +1,92 @@
+*************************************************************
+FileName = Plumo-2D.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\matrix\matrix
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\profile
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\stephdr
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\attrlist
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\top_paste\features
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\top_solder\features
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\top_layer\features
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\signal_layer_1\features
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\signal_layer_1\attrlist
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\signal_layer_2\features
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\signal_layer_2\attrlist
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\drill\features
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\drill\tools
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\mechanical_1\features
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\mechanical_1\attrlist
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\mechanical_7\features
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\mechanical_7\attrlist
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\mechanical_13\features
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\mechanical_13\attrlist
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\mechanical_15\features
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\mechanical_15\attrlist
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\mechanical_29\features
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\mechanical_29\attrlist
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\gerbers\odb\steps\pcb\eda\data
+

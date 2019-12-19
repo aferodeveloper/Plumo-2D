@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\Plumo-2D.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=plumo-2d-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=plumo-2d-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: Z:\wrk\Afero\asr-2d_ESP32\staging\HW-Plumo-2D\Plumo-2D.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

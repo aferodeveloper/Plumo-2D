@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Plumo-2D.PcbDoc   12/16/19  6:34:24 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Plumo-2D-RoundHoles.TXT
+ASCII SlotHoles File : Plumo-2D-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             130       PTH        12.58inch (319.51mm)
+T2      26mil (0.65mm)                                            Slot              2         PTH        0.41inch (10.52mm)
+T3      28mil (0.701mm)                                           Round             10        PTH        0.45inch (11.43mm)
+T4      28mil (0.701mm)                                           Slot              2         PTH        0.47inch (11.92mm)
+T5      35mil (0.899mm)                                           Round             28        PTH        4.39inch (111.62mm)
+T6      100mil (2.54mm)                                           Round             2         PTH        0.70inch (17.78mm)
+T7      80mil (2.032mm)                                           Round             2         NPTH       0.75inch (19.05mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              176
+
+Total Processing Time (hh:mm:ss) : 00:00:00
